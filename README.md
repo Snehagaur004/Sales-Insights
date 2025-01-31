@@ -9,5 +9,7 @@ insights for sales decision-making, automating data collection and aggregation t
 • Tech Stack- MySQL,PowerBI,MS SQL Server,Ms Excel
  I have attached the project folder in the repository.
 ![Screenshot 2025-01-31 151210](https://github.com/user-attachments/assets/459fc986-9106-414f-843a-9fd805e1e0d4)
+
 ![Screenshot 2025-01-31 151122](https://github.com/user-attachments/assets/a80350b8-e4e9-4434-88a0-1ab0cc5362f7)
+
 ![Screenshot 2025-01-31 151048](https://github.com/user-attachments/assets/8fbc6bc8-f23b-43e9-b8df-5f8bf4d7b23f)
