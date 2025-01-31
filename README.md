@@ -12,7 +12,11 @@ insights for sales decision-making, automating data collection and aggregation t
 
 
 
+
+
 ![Screenshot 2025-01-31 151122](https://github.com/user-attachments/assets/a80350b8-e4e9-4434-88a0-1ab0cc5362f7)
+
+
 
 
 
